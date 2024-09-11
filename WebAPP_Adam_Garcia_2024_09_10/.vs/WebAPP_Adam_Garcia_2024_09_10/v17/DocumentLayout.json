@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\controllers\\asientocontablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\controllers\\asientocontablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\dtos\\asientocontabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\dtos\\asientocontabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\models\\contabilidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\models\\contabilidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\models\\asientocontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\models\\asientocontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\dtos\\movimientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\dtos\\movimientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\controllers\\movimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\controllers\\movimientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webapp_adam_garcia_2024_09_10\\webapp_adam_garcia_2024_09_10\\dtos\\cuentacontabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D982899C-21C2-49E5-9468-CBEE9BA366EB}|WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10.csproj|solutionrelative:webapp_adam_garcia_2024_09_10\\dtos\\cuentacontabledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContabilidadContext.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Models\\ContabilidadContext.cs",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\Models\\ContabilidadContext.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Models\\ContabilidadContext.cs",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\Models\\ContabilidadContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T19:56:46.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\appsettings.json",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\appsettings.json",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T19:55:23.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsientoContableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\DTOs\\AsientoContableDTO.cs",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\DTOs\\AsientoContableDTO.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\DTOs\\AsientoContableDTO.cs",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\DTOs\\AsientoContableDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:32:41.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AsientoContablesController.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Controllers\\AsientoContablesController.cs",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\Controllers\\AsientoContablesController.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Controllers\\AsientoContablesController.cs",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\Controllers\\AsientoContablesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwD0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:14:13.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\Program.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Program.cs",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:27:14.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovimientoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\DTOs\\MovimientoDTO.cs",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\DTOs\\MovimientoDTO.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\DTOs\\MovimientoDTO.cs",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\DTOs\\MovimientoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:22:51.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovimientoesController.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Controllers\\MovimientoesController.cs",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\Controllers\\MovimientoesController.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Controllers\\MovimientoesController.cs",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\Controllers\\MovimientoesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:20:26.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsientoContable.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Models\\AsientoContable.cs",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\Models\\AsientoContable.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\Models\\AsientoContable.cs",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\Models\\AsientoContable.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:18:13.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CuentaContableDTO.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\DTOs\\CuentaContableDTO.cs",
+              "RelativeDocumentMoniker": "WebAPP_Adam_Garcia_2024_09_10\\DTOs\\CuentaContableDTO.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebAPP_Adam_Garcia_2024_09_10\\WebAPP_Adam_Garcia_2024_09_10\\DTOs\\CuentaContableDTO.cs",
+              "RelativeToolTip": "WebAPP_Adam_Garcia_2024_09_10\\DTOs\\CuentaContableDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:33:16.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+[
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.AsientoContablesController",
+    "Method": "DeleteAsientoContable",
+    "RelativePath": "api/AsientoContables/DeleteAsientoContable/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.AsientoContablesController",
+    "Method": "GetAsientoContable",
+    "RelativePath": "api/AsientoContables/GetAsientoContable/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.Models.AsientoContable",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.AsientoContablesController",
+    "Method": "GetAsientoContableFiltro",
+    "RelativePath": "api/AsientoContables/GetAsientoContableFiltro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "descripcion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fecha",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "departamentoId",
+        "Type": "System.Nullable\u00601[[System.Int32, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebAPP_Adam_Garcia_2024_09_10.Models.AsientoContable, WebAPP_Adam_Garcia_2024_09_10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.AsientoContablesController",
+    "Method": "GetAsientoContables",
+    "RelativePath": "api/AsientoContables/GetAsientoContables",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebAPP_Adam_Garcia_2024_09_10.Models.AsientoContable, WebAPP_Adam_Garcia_2024_09_10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.AsientoContablesController",
+    "Method": "PostAsientoContable",
+    "RelativePath": "api/AsientoContables/PostAsientoContable",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "asientoContable",
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.DTOs.AsientoContableDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.DTOs.AsientoContableDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.AsientoContablesController",
+    "Method": "PutAsientoContable",
+    "RelativePath": "api/AsientoContables/PutAsientoContable/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "asientoContable",
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.DTOs.AsientoContableDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.CuentaContablesController",
+    "Method": "GetCuentaContables",
+    "RelativePath": "api/CuentaContables",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebAPP_Adam_Garcia_2024_09_10.Models.CuentaContable, WebAPP_Adam_Garcia_2024_09_10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.CuentaContablesController",
+    "Method": "PostCuentaContable",
+    "RelativePath": "api/CuentaContables",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuentaContable",
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.Models.CuentaContable",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.Models.CuentaContable",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.CuentaContablesController",
+    "Method": "GetCuentaContable",
+    "RelativePath": "api/CuentaContables/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.Models.CuentaContable",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.CuentaContablesController",
+    "Method": "PutCuentaContable",
+    "RelativePath": "api/CuentaContables/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "cuentaContable",
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.Models.CuentaContable",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.CuentaContablesController",
+    "Method": "DeleteCuentaContable",
+    "RelativePath": "api/CuentaContables/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.MovimientoesController",
+    "Method": "DeleteMovimiento",
+    "RelativePath": "api/Movimientoes/DeleteMovimiento/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.MovimientoesController",
+    "Method": "GetMovimiento",
+    "RelativePath": "api/Movimientoes/GetMovimiento/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.Models.Movimiento",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.MovimientoesController",
+    "Method": "GetMovimientos",
+    "RelativePath": "api/Movimientoes/GetMovimientos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebAPP_Adam_Garcia_2024_09_10.Models.Movimiento, WebAPP_Adam_Garcia_2024_09_10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.MovimientoesController",
+    "Method": "PostMovimiento",
+    "RelativePath": "api/Movimientoes/PostMovimiento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movimientoDTO",
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.DTOs.MovimientoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.DTOs.MovimientoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.MovimientoesController",
+    "Method": "PutMovimiento",
+    "RelativePath": "api/Movimientoes/PutMovimiento/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "movimiento",
+        "Type": "WebAPP_Adam_Garcia_2024_09_10.DTOs.MovimientoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPP_Adam_Garcia_2024_09_10.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[WebAPP_Adam_Garcia_2024_09_10.WeatherForecast, WebAPP_Adam_Garcia_2024_09_10, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

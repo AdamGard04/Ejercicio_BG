@@ -1,0 +1,72 @@
+﻿@model IEnumerable<WebFront_Adam_Garcia_2024_09_10.ModelsView.AsientoContable>
+
+@{
+    ViewData["Title"] = "Lista Asientos Contables";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <style>
+        .page-header {
+            margin-bottom: 20px;
+        }
+
+        .table-custom {
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        .btn-custom {
+            margin: 0 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <div class="page-header text-center mb-4">
+            <h1 class="display-4">@ViewData["Title"]</h1>
+            <p class="lead">Manage your accounting entries efficiently.</p>
+            <a asp-action="Create" class="btn btn-primary btn-lg">Create New</a>
+        </div>
+
+        <div class="card">
+            <div class="card-body">
+                <table class="table table-striped table-bordered table-custom">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.Fecha)</th>
+                            <th>@Html.DisplayNameFor(model => model.DepartamentoId)</th>
+                            <th>@Html.DisplayNameFor(model => model.Descripcion)</th>
+                            <th>@Html.DisplayNameFor(model => model.Estado)</th>
+                            <th class="text-center">Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@Html.DisplayFor(modelItem => item.Fecha)</td>
+                                <td>@Html.DisplayFor(modelItem => item.DepartamentoId)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                                <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                                <td class="text-center">
+                                    @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-warning btn-sm btn-custom" }) |
+                                    @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-info btn-sm btn-custom" }) |
+                                    @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ }, new { @class = "btn btn-danger btn-sm btn-custom" })
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

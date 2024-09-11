@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebFront_Adam_Garcia_2024_09_10.props" />
+</Project>

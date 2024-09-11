@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webfront_adam_garcia_2024_09_10\\webfront_adam_garcia_2024_09_10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|solutionrelative:webfront_adam_garcia_2024_09_10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webfront_adam_garcia_2024_09_10\\webfront_adam_garcia_2024_09_10\\modelsview\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|solutionrelative:webfront_adam_garcia_2024_09_10\\modelsview\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webfront_adam_garcia_2024_09_10\\webfront_adam_garcia_2024_09_10\\controllers\\asientocontablecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|solutionrelative:webfront_adam_garcia_2024_09_10\\controllers\\asientocontablecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webfront_adam_garcia_2024_09_10\\webfront_adam_garcia_2024_09_10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|solutionrelative:webfront_adam_garcia_2024_09_10\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webfront_adam_garcia_2024_09_10\\webfront_adam_garcia_2024_09_10\\views\\movimiento\\listamovimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|solutionrelative:webfront_adam_garcia_2024_09_10\\views\\movimiento\\listamovimiento.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|c:\\users\\agarcia\\documents\\c#\\webfront_adam_garcia_2024_09_10\\webfront_adam_garcia_2024_09_10\\modelsview\\asientocontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8746CF4-A54E-4252-95CB-A80DA19B09BD}|WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10.csproj|solutionrelative:webfront_adam_garcia_2024_09_10\\modelsview\\asientocontable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\appsettings.json",
+              "RelativeDocumentMoniker": "WebFront_Adam_Garcia_2024_09_10\\appsettings.json",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\appsettings.json",
+              "RelativeToolTip": "WebFront_Adam_Garcia_2024_09_10\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-10T20:50:59.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaMovimiento.cshtml",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\Views\\Movimiento\\ListaMovimiento.cshtml",
+              "RelativeDocumentMoniker": "WebFront_Adam_Garcia_2024_09_10\\Views\\Movimiento\\ListaMovimiento.cshtml",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\Views\\Movimiento\\ListaMovimiento.cshtml",
+              "RelativeToolTip": "WebFront_Adam_Garcia_2024_09_10\\Views\\Movimiento\\ListaMovimiento.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T16:28:45.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebFront_Adam_Garcia_2024_09_10\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebFront_Adam_Garcia_2024_09_10\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-10T15:47:54.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AsientoContableController1.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\Controllers\\AsientoContableController1.cs",
+              "RelativeDocumentMoniker": "WebFront_Adam_Garcia_2024_09_10\\Controllers\\AsientoContableController1.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\Controllers\\AsientoContableController1.cs",
+              "RelativeToolTip": "WebFront_Adam_Garcia_2024_09_10\\Controllers\\AsientoContableController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:34:32.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\ModelsView\\Movimiento.cs",
+              "RelativeDocumentMoniker": "WebFront_Adam_Garcia_2024_09_10\\ModelsView\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\ModelsView\\Movimiento.cs",
+              "RelativeToolTip": "WebFront_Adam_Garcia_2024_09_10\\ModelsView\\Movimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:33:32.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsientoContable.cs",
+              "DocumentMoniker": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\ModelsView\\AsientoContable.cs",
+              "RelativeDocumentMoniker": "WebFront_Adam_Garcia_2024_09_10\\ModelsView\\AsientoContable.cs",
+              "ToolTip": "C:\\Users\\agarcia\\Documents\\c#\\WebFront_Adam_Garcia_2024_09_10\\WebFront_Adam_Garcia_2024_09_10\\ModelsView\\AsientoContable.cs",
+              "RelativeToolTip": "WebFront_Adam_Garcia_2024_09_10\\ModelsView\\AsientoContable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:33:04.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
